@@ -32,3 +32,25 @@ padding-bottom: 10px;
 
 
 }
+
+.button-style{
+    border: 1px solid ;
+    border-radius: 6px;
+    padding: 4px;
+    
+}
+
+#button-task{
+border-color: rgb(35, 151, 247);;  
+color: white;
+background-color: rgb(35, 151, 247);
+
+}
+
+#button-section{
+    
+border-color: rgba(0, 0, 0, 0.342);; 
+color: rgba(0, 0, 0, 0.342);
+
+}
+
