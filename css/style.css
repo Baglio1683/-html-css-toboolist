@@ -83,6 +83,15 @@ padding-top: 10px;
 }
 
 
+.tag{
+color: white;
+background-color: rgb(53, 106, 204);
+padding: 4px;
+border-radius: 7px;
+font-size: small;
+
+}
+
 .task-list{
 
 padding-left: 30px;
@@ -112,5 +121,27 @@ padding-left: 4px;
 
 margin-bottom: 25px;
 
+}
+
+
+
+#goals{
+
+background-color: blueviolet;
+}
+
+#recruiting{
+background-color: rgb(57, 223, 57);
+
+}
+
+#website{
+background-color: rgb(236, 47, 227);
+
+}
+
+#sales{
+
+background-color: lightgreen;
 
 }
