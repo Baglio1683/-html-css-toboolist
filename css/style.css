@@ -6,16 +6,20 @@
 }
 
 
+/* Classe container  */
 .container {
     width: 80%;
     margin: 0 auto;
     background-color: white;
     margin-top: 20px; 
 }
+
+/* Definizione stile body  */
 body{
   background-color: azure; 
 }
 
+/* Definizione classe inside header  */
 .Inside-header{
 
 display: inline-block;
@@ -23,6 +27,8 @@ vertical-align: middle;
 padding: 5px;
 }
 
+
+/* definzione classe button-section  */
 .button-section{
 
 border-bottom: 1px solid black;
@@ -33,6 +39,7 @@ padding-bottom: 10px;
 
 }
 
+/* Definzione classe style  */
 .button-style{
     border: 1px solid ;
     border-radius: 6px;
@@ -40,6 +47,8 @@ padding-bottom: 10px;
     
 }
 
+
+/* definizione id button task */
 #button-task{
 border-color: rgb(35, 151, 247);;  
 color: white;
@@ -47,6 +56,7 @@ background-color: rgb(35, 151, 247);
 
 }
 
+/* definzione button section  */
 #button-section{
     
 border-color: rgba(0, 0, 0, 0.342);; 
@@ -54,6 +64,7 @@ color: rgba(0, 0, 0, 0.342);
 
 }
 
+/* definizione classe task  */
 .task{
 
 margin-top: 20px;
@@ -66,16 +77,19 @@ padding-top: 10px;
 }
 
 
+/* definizione triangolo  */
+#triangolo {
 
-   #triangolo {
     width: 0;
     height: 0;
     border-top: 8px solid black;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
     display: inline-block;
-    }
 
+}
+
+/* definizione divnella classe task  */
 .task div{
 
  display: inline-block;   
@@ -83,6 +97,7 @@ padding-top: 10px;
 }
 
 
+/* definizione classe tag  */
 .tag{
 color: white;
 background-color: rgb(53, 106, 204);
@@ -92,30 +107,35 @@ font-size: small;
 
 }
 
+/* Definizione classe task-list */
 .task-list{
 
 padding-left: 30px;
 
 }
 
-
+/* definizione classe check  */
 .check{
+
 color: green;
 border: 1px solid green;
 padding: 2px;
 padding-left: 5px;
 padding-right: 5px;
 border-radius: 12px;
+
 }
 
 
+/* definizione id cross  */
 #cross{
+
 color: red;
 border-color: red;
-padding-right: 1px;
-padding-left: 4px;
+
 }
 
+/* Definizione classe list-element  */
 
 .list-element{
 
@@ -124,24 +144,28 @@ margin-bottom: 25px;
 }
 
 
-
+/* Definizione id goals  */
 #goals{
 
 background-color: blueviolet;
 }
 
+/* definizione id recuitring  */
 #recruiting{
 background-color: rgb(57, 223, 57);
 
 }
 
+/* definizione id website  */
 #website{
 background-color: rgb(236, 47, 227);
 
 }
 
+/* definizione id sales  */
 #sales{
 
 background-color: lightgreen;
 
 }
+
